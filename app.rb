@@ -10,6 +10,6 @@ end
 
 get '/cat' do
   "<div>
-    <img scr='http://bit.ly/leze8aE'>
+    <img src='http://bit.ly/1eze8aE'>
    </div>"
 end
